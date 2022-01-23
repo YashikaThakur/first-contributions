@@ -106,6 +106,7 @@ itay-guter
 -[VarunSatpute](https://github.com/VarunSatpute)
 -[Genominus](https://github.com/Genominus)
 -[HAK](https://github.com/Genominus)
+-[Yashika Thakur](https://github.com/YashikaThakur)
 -[Ming Ng](https://github.com/redconOne)
 -[Anas Jehani](https://github.com/Ajehani)
 -[Yosef Melul] (https://github.com/ymelul342)
